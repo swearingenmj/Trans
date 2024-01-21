@@ -2,7 +2,7 @@
     "name": "Trans",
     "author": "swear",
     "_version": "3.1.0",
-    "_release": "0",
+    "_release": "3",
     "scenes": [
         {
             "id": "94c18861-b352-4f49-a64d-52f2e3415077",
@@ -9405,9 +9405,9 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 0,
+        "worldScrollX": 93,
         "worldScrollY": 0,
-        "zoom": 100,
+        "zoom": 77.28015456534922,
         "customColorsEnabled": false,
         "sgbEnabled": false,
         "customHead": "",
@@ -9435,9 +9435,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            429,
-            142,
-            142
+            641,
+            30,
+            30
         ],
         "showNavigator": true,
         "defaultFontId": "26fa15df-3318-44ad-8bfd-feff8ba7991d",
